@@ -1,0 +1,8 @@
+{
+  "name": "Camaleón Studio - Agencia Creativa",
+  "description": "Una agencia de marketing digital 360 basada en Villavicencio, Colombia, enfocada en experiencias de marca innovadoras y resultados tangibles.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
